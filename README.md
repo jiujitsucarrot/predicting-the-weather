@@ -1,2 +1,2 @@
-# predicting-the-weather
+# 06 Weather Man
 Weather App
