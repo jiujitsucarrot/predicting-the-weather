@@ -35,20 +35,23 @@ THEN I am again presented with current and future conditions for that city
 
 ## Series of Events
 
+First, the challenge is unfortunately incomplete. Still have more work to do but at the moment, these are the events that took place. This was a challenging assignment to attack. I started with getting access to the API key, followed by structuring the HTML and CSS to give me a bit of a visual where data would appear. I then moved over to the JavaScript, the goal was to display a 5 day weather forecast. I then set up a couple fetch calls in order to retrieve the data needed for the page. The original code I wrote gave me a temperature reading in Kelvin instead of Farenheit. I converted it over by adding &units=imperial which then gave me my reading in Farenheit. Functions were set to display weather data, get unique dates, and get the forecast for the date. Unfortunately I have hit a bit of a wall and have more work to do. I will be re submitting my assignment as soon as I finish it. 
+
 
 
 ## Sources 
 
+Sources for this challenge so far have been revisting course lectures, looking over notess, reaching out to my colleagues and classmates. I have been utilizing office hours, class, weekly tutoring session. I have also utilized YouTube, Google, JavaScript for Dummies, class activities, podcasts, and having conversations with others about coding concepts.
+
 
 ## Screenshots
 
-* 
-* 
+* ![Alt text](<Screenshot 2023-07-27 at 11.46.53 PM (2).png>)
 
 ## Final Submission
 
-* 
-* 
+* https://jiujitsucarrot.github.io/predicting-the-weather/
+* https://github.com/jiujitsucarrot/predicting-the-weather
 
 ## Grading Requirements
 
